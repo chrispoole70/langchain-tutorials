@@ -3,6 +3,7 @@
 ## Tutorial Overview
 
 * This tutorial is called [Build an Extraction Chain](https://python.langchain.com/docs/tutorials/extraction/)
+* It demonstrates how an LLM can extract info from unstructured text about a person's name, hair color, and height.
 
 ## Important Concepts
 
