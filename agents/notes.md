@@ -1,6 +1,6 @@
 # My Notes
 
-## Tutuorial Overview
+## Tutorial Overview
 
 
 ## Important Concepts
