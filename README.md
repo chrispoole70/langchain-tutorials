@@ -10,7 +10,7 @@
 ## Orchestration
 
 - [x] Chatbots: Build a chatbot that incorporates memory.
-- [ ] Agents: Build an agent that interacts with external tools.
+- [x] Agents: Build an agent that interacts with external tools.
 - [ ] Retrieval Augmented Generation (RAG) Part 1: Build an application that uses your own documents to inform its responses.
 - [ ] Retrieval Augmented Generation (RAG) Part 2: Build a RAG application that incorporates a memory of its user interactions and multi-step retrieval.
 - [ ] Question-Answering with SQL: Build a question-answering system that executes SQL queries to inform its responses.
