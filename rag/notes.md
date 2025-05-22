@@ -3,6 +3,7 @@
 ## Tutorial Overview
 
 * This tutorial is called [Build a Retrieval Augmented Generation (RAG) App: Part 1](https://python.langchain.com/docs/tutorials/rag/)
+* It demonstrates how to load a blog post and use an LLM to answer specific questions about it.
 
 ## Important Concepts
 
